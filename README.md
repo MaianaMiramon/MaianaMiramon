@@ -10,7 +10,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-MaianaMiramon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiana-miramon/)](https://www.linkedin.com/in/maiana-miramon)
 </div>
 
-### 💻 Une brève présentation en PHP :
+### 💻 Une brève présentation :
 
 ```php
 <?php
@@ -20,7 +20,7 @@ class Maiana
     public $firstname = 'Maïana';
     public $age = 28;
     public $education = ['Ecole O\'Clock', 'Inseec MSC & MBA'];
-    public $location = 'Lorient, Bretagne';
+    public $location = 'Lorient';
     public $technologiesUsed = [
         'Backend' => ['PHP' => ['Symfony', 'Laravel']],
         'Frontend' => ['HTML', 'CSS', 'JavaScript'],
