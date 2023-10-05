@@ -1,8 +1,8 @@
-<h1 align="center">
+<div align="center">
   <img src="mm.gif" alt="GIF Maïana" width="200"/>
-</h1>
+  <h1>Hello, moi c'est Maïana ! 👋</h1>
+</div>
 
-<h1 align="center">Hello, moi c'est Maïana ! 👋</h1>
 <p align="center">Après quelques temps passé dans le domaine des Ressources Humaines, j'ai décidé d'entamer une reconversion professionnelle afin de devenir développeur web. <br><br>Actuellement en fin de formation chez O'Clock, je suis à la recherche d'une alternance pour un démarrage le 22 janvier 2024 !</p> 
 
 <div align="center">
