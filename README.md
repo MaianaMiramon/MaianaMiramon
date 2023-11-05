@@ -1,9 +1,9 @@
 <div align="center">
   <img src="mm.gif" alt="GIF Maïana" width="200"/>
-  <h1>Hello, moi c'est Maïana ! 👋</h1>
+  <h1>Hello ! 👋</h1>
 </div>
 
-<p align="center">Après quelques temps passé dans le domaine des Ressources Humaines, j'ai décidé d'entamer une reconversion professionnelle afin de devenir développeur web. <br><br>Actuellement en fin de formation chez O'Clock, je suis à la recherche d'une alternance pour un démarrage le 22 janvier 2024 !</p> 
+<p align="center">Après quelques temps passé dans le domaine des Ressources Humaines, j'ai décidé d'entamer une reconversion professionnelle afin de devenir développeur web. <br><br>Actuellement en fin de formation chez O'Clock, je suis à la recherche d'une alternance pour un démarrage le 22 ou le 29 janvier 2024 !</p> 
 
 <div align="center">
 
@@ -20,7 +20,7 @@ class Maiana
     public $firstname = 'Maïana';
     public $age = 28;
     public $education = ['Ecole O\'Clock', 'Inseec MSC & MBA'];
-    public $location = 'Lorient';
+    public $location = 'Lanester';
     public $technologiesUsed = [
         'Backend' => ['PHP' => ['Symfony', 'Laravel']],
         'Frontend' => ['HTML', 'CSS', 'JavaScript'],
